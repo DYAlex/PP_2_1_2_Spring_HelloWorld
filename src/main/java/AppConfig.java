@@ -2,11 +2,6 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.Scope;
 
-/*
-В классе AppConfig, по аналогии, создайте бин с именем “cat”.
-
-Настройте этот бин так, чтобы он создавался новым при каждом запросе.
- */
 @Configuration
 public class AppConfig {
  
